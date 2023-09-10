@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![terminal (1)](https://github.com/Piek4rz/Piek4rz/assets/80907529/83f55881-583a-437f-a548-1aeff1932d3c)
 
 <!--
 **Piek4rz/Piek4rz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
