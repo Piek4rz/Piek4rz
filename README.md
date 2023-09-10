@@ -1,5 +1,5 @@
 
-![terminal (1)](https://github.com/Piek4rz/Piek4rz/assets/80907529/83f55881-583a-437f-a548-1aeff1932d3c)
+![terminal-readme](https://github.com/Piek4rz/Piek4rz/assets/80907529/214b7277-2c86-412f-a8df-de96090fba98)
 
 <!--
 **Piek4rz/Piek4rz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
